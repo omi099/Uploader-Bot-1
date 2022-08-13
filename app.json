@@ -3,7 +3,7 @@
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL UPLOADER"],
   "success_url": "https://t.me/cyniteUploaderbot",
-  "website": "https://github.com/CyniteOfficial/Uploader-Bot",
+  "website": "https://github.com/omi099/Uploader-Bot",
   "repository": "https://github.com/omi099/Uploader-Bot",
 
   "env": {
